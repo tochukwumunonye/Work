@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AskME</string>
+    <string name="question_no">Question No :</string>
+</resources>
